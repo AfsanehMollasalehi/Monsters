@@ -12,7 +12,7 @@ const CardList = ({ monsters }) => {
   );
 };
 export default CardList;
-
+// *Creating class component
 // export default class CardList extends Component {
 //   render() {
 //     const { monsters } = this.props;

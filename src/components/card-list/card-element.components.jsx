@@ -16,6 +16,8 @@ const CardElement = ({ monsters }) => {
   );
 };
 export default CardElement;
+
+// *Creating class component
 // export default class CardElement extends Component {
 //   render() {
 //     const { name, id, email } = this.props.monsters;

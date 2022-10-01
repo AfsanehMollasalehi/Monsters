@@ -46,8 +46,7 @@ const App = () => {
   );
 };
 
-///////////////////////////////ژClass component
-
+// *Creating class component
 // class App extends Component {
 //   constructor() {
 //     super();

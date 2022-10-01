@@ -11,7 +11,7 @@ export default function SearchBox({ className, placeholder, onChangeHandler }) {
     />
   );
 }
-
+// *Creating class component
 // export default class SearchBox extends Component {
 //   render() {
 //     // const {onSearchChange}= this.props
